@@ -6,7 +6,7 @@ import geojsonData from './data/UNI_shpfile_displayTrial.geojson';
 import './App.css';
 
 // Set your Mapbox access token here
-mapboxgl.accessToken = 'pk.eyJ1Ijoic2Nvb2J5ZG9vMjAyNCIsImEiOiJjbHlwa2FnNTUwcGc4MmpzNDNiMGczdTE3In0.-Wj3wZ8hFfE_Ty4UPDzKlg';
+mapboxgl.accessToken = 'pk.eyJ1Ijoic2Nvb2J5ZG9vMjAyNCIsImEiOiJjbTQ4bHgyN2QwMHdrMnJzaDZxcGg1OXE3In0.uvYumaLxKLGsHPNrfYhPeg';
 
 function App() {
   const mapContainer = useRef(null);
