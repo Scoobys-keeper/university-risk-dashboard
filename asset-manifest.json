@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/university-risk-dashboard/static/css/main.71435bc5.css",
+    "main.js": "/university-risk-dashboard/static/js/main.ed98b7cc.js",
+    "static/js/453.4688e249.chunk.js": "/university-risk-dashboard/static/js/453.4688e249.chunk.js",
+    "static/media/UNI_shpfile_displayTrial.geojson": "/university-risk-dashboard/static/media/UNI_shpfile_displayTrial.48921b648376b698b435.geojson",
+    "index.html": "/university-risk-dashboard/index.html",
+    "main.71435bc5.css.map": "/university-risk-dashboard/static/css/main.71435bc5.css.map",
+    "main.ed98b7cc.js.map": "/university-risk-dashboard/static/js/main.ed98b7cc.js.map",
+    "453.4688e249.chunk.js.map": "/university-risk-dashboard/static/js/453.4688e249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71435bc5.css",
+    "static/js/main.ed98b7cc.js"
+  ]
+}
