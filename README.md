@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# University Risk and Display
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+## Information for Users
+
+This project is compiled using open source / publicly available data such as HESA EMR and UK open data from https://www.data.gov.uk.
+
+
+### User Manual 
+This section provides a description of all the information that is found on the React page and how to best use the data in the presented format. 
+
+The linked page opens to the whole Uk with universities listed as dots on the map. On the left hand side, there is a panel with two tabs. One containing a list of all the universities and the next has a set of toggles. 
+
+These toggles are: 
+
+
+
+
+
+## Technical information. Not applicable to most users. 
+
 
 In the project directory, you can run:
 
