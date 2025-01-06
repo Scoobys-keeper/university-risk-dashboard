@@ -11,10 +11,7 @@ This project is compiled using open source / publicly available data such as HES
 ### User Manual 
 This section provides a description of all the information that is found on the React page and how to best use the data in the presented format. 
 
-The linked page opens to the whole Uk with universities listed as dots on the map. On the left hand side, there is a panel with two tabs. One containing a list of all the universities and the next has a set of toggles. 
-
-These toggles are: 
-
+The linked page opens to the whole UK with universities listed as dots on the map. On the left hand side, there is a panel with a list of universities. Clicking on your university of interest will bring you directly to a pin location and show the land use breakdown as of 2024. The pins are color coded by cluster. A description of the clusters is found in the collapsable panel on the right hand side.
 
 
 
